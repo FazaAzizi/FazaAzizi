@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I’m passionate about building mobile apps, wheth
 ---
 
 ## 📫 Connect With Me
-- **LinkedIn**: [Your LinkedIn](www.linkedin.com/in/faza-azizi-836a0321b)
+- **LinkedIn**: [Faza Nur Azizi](www.linkedin.com/in/faza-azizi-836a0321b)
 - **Email**: faza.azizi.fa@gmail.com
 
 ---
